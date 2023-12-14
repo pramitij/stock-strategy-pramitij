@@ -24,6 +24,28 @@ Submissions will have deadlines, failed GitHub Actions would result in point ded
 
 Please reach out to your respective TA if you need any help in regards with submission/ GitHub
 
-Author:
-- Aditya Mulik (mulik.a@northeastern.edu)
-- Sai Akhil Vemula (vemula.v@northeastern.edu)
+### Specifications of Assignment:
+100 TOTAL POINTS:
+
+Add Strategy pattern to the Stock program to encapsulate your algorithm for computing new stock prices.
+
+For Example:
+
+Given TWO derived classes from Stock,
+
+40 POINTS Create TWO strategies (one for each derived class) which implement GoF Strategy pattern
+
+AND Create TWO additional strategies (one for each derived class) which implement GoF Strategy pattern AND Singleton pattern
+
+20 POINTS for a BULL market Strategy algorithm and
+
+20 POINTS One  BEAR market Strategy algorithm
+
+20 POINTS to demonstrate usage of the Strategy pattern in the trading of your derived Stock classes.
+
+ 
+
+Instructions:
+
+Refactor existing code, don't push to previous repo. New repo is provided for this assignment.
+Commit, push and submit URL in canvas on time else you will end up losing 30% as a late penalty (No exceptions)
